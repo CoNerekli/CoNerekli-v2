@@ -14,5 +14,3 @@ Tato verze využívá veřejnou Telegram skupinu pro ukládání komentářů a 
 2. Otevři `src/conerekli-v2.user.js` a klikni na „Raw“
 3. Tampermonkey nabídne instalaci skriptu
 
-## Licence
-MIT
